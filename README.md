@@ -11,8 +11,8 @@ Créditos Este jogo foi desenvolvido como parte de um projeto educacional da Dig
 
 Divirta-se jogando esse jogo de memoria em seu tempo livre enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript.
 
-![Imagem da pagina] (https://github.com/flauper2021/jogo-memoria-emoji/blob/main/src/images/print-pagina-jogo.png).
+![Image](https://github.com/flauper2021/jogo-memoria-emoji/blob/main/src/images/print-pagina-jogo.png).
 
-![Link do Pagina] (https://jogo-memoria-emoji.vercel.app/) Pagina do jogo no Vercel.
+[Link do Pagina](https://jogo-memoria-emoji.vercel.app/) Pagina do jogo no Vercel.
 
 Grato por visitar meu Github.
